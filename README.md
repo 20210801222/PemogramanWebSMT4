@@ -1,4 +1,4 @@
-# PemogramanWebSMT4
+# Pemograman Web Semester 4
 
 This project is all about Web Development course in Esa Unggul University
 
