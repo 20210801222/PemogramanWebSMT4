@@ -5,7 +5,6 @@ This project made by Aldi Maulana Iqbal
 
 ## Changelog
 
-
 **24/04/2023**
 
 * Creating homepage
