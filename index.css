@@ -1,0 +1,25 @@
+body {
+  background-color: #fcf6ed;
+}
+
+.quicklinks {
+  width: 720px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.profile {
+  width: 50vw;
+}
+
+.profile img {
+  width: 200px;
+  height: 200px;
+}
+
+.jadwal {
+  width: 50vw;
+}
